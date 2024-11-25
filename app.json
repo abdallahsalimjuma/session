@@ -2,7 +2,7 @@
     "name": "Beltah Tech 254 🇰🇪",
     "description": "BELTAH-MD WA bot, Created by Beltah Tech",
     "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-    "repository": "https://github.com/Huaweike/Session/tree/main",
+    "repository": "https://github.com/abdallahsalimjuma/Session/tree/main",
     "keywords": ["FlashMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
